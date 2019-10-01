@@ -6,7 +6,7 @@ Plug 'nightsense/cosmic_latte'
 Plug 'itchyny/lightline.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'ctrlpvim/ctrlp.vim'
-"Plug 'valloric/youcompleteme'
+Plug 'valloric/youcompleteme'
 call plug#end()
 
 " SET TRUE COLORS
